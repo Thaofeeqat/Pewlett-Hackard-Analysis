@@ -4,6 +4,13 @@ The purpose of this project was to determine the number of retiring employees by
 #RESULTS
 Here are the results fro the analysis:
 
-# 1. Deliverable 1
+# *. Deliverable 1
 The image below shows the analysis of the total retiring employees.
+
 ![image](https://github.com/Thaofeeqat/Pewlett-Hackard-Analysis/blob/main/Data/Retiring%20employee.png)
+
+
+# *. Deliverable  2
+The image below in analysis shows the memebers that are eligible for the mentorship program.
+
+![image](https://github.com/Thaofeeqat/Pewlett-Hackard-Analysis/blob/main/Data/mentorship.png)
